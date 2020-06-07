@@ -5,10 +5,8 @@ import numpy as np
 import imutils
 import ntpath
 from imutils import face_utils
-from elasticsearch import Elasticsearch
 from collections import OrderedDict
 from PIL import Image
-# from pypylon import pylon
 from numpy import *
 import cv2
 import time
