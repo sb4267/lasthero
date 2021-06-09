@@ -1,7 +1,7 @@
 boto==2.49.0
 boto3==1.12.28
 conda==4.8.0
-Django==2.2.7
+Django==2.2.22
 django-crispy-forms==1.8.1
 django-elasticsearch-dsl==7.1.1
 django-filter==2.2.0
